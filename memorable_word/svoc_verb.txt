@@ -1,0 +1,99 @@
+laugh, SV
+smile, SV
+live, SV
+appear, SV
+cough, SV
+cry, SV
+belong, SV
+fall, SV
+fly, SV
+open, SV
+become, SVC
+get, SVC
+go, SVC
+be, SVC
+continue, SVC, 状態の継続
+keep, SVC, 状態の継続
+remain, SVC, 状態の継続
+stay, SVC, 状態の継続
+become, SVC, 〜になる
+get, SVC, 〜になる
+go, SVC, 〜になる
+come, SVC, 〜になる
+grow, SVC, 〜になる
+fall, SVC, 〜になる
+turn, SVC, 〜になる
+seem, SVC, 〜に思われる
+appear, SVC, 〜に思われる
+look, SVC, 〜に思われる
+feel, SVC, 〜と感じる
+smell, SVC, 〜の匂いがする
+sound, SVC, 〜に聞こえる
+taste, SVC, 〜の味がする
+
+
+come, SVC
+grow, SVC
+fall, SVC
+turn, SVC
+seem, SVC
+appear, SVC
+look, SVC
+feel, SVC
+smell, SVC
+sound, SVC
+taste, SVC
+teach, SVO
+want, SVO
+avoid, SVO
+know, SVO
+accept, SVO
+begin, SVO
+break, SVO
+bring, SVO
+build, SVO
+carry, SVO
+cause, SVO
+catch, SVO
+allot, SVOO
+award, SVOO
+fax, SVOO
+give, SVOO
+grant, SVOO
+hand, SVOO
+lend, SVOO
+offer, SVOO
+pass, SVOO
+pay, SVOO
+promise, SVOO
+send, SVOO
+show, SVOO
+teach, SVOO
+tell, SVOO
+throw, SVOO
+write, SVOO
+buy, SVOO
+call, SVOO
+cook, SVOO
+find, SVOO
+get, SVOO
+make, SVOO
+prepare, SVOO
+save, SVOO
+appoint, SVOC
+call, SVOC
+elect, SVOC
+name, SVOC
+consider, SVOC
+make, SVOC
+get, SVOC
+set, SVOC
+drive, SVOC
+turn, SVOC
+boil, SVOC
+paint, SVOC
+push, SVOC
+leave, SVOC
+keep, SVOC
+
+

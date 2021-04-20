@@ -1,0 +1,31 @@
+continue, SVC, 状態の継続
+keep, SVC, 状態の継続
+remain, SVC, 状態の継続
+stay, SVC, 状態の継続
+become, SVC, 〜になる
+get, SVC, 〜になる
+go, SVC, 〜になる
+come, SVC, 〜になる
+grow, SVC, 〜になる
+fall, SVC, 〜になる
+turn, SVC, 〜になる
+seem, SVC, 〜に思われる
+appear, SVC, 〜に思われる
+look, SVC, 〜に思われる
+feel, SVC, 〜と感じる
+smell, SVC, 〜の匂いがする
+sound, SVC, 〜に聞こえる
+taste, SVC, 〜の味がする
+come, SVC
+grow, SVC
+fall, SVC
+turn, SVC
+seem, SVC
+appear, SVC
+look, SVC
+feel, SVC
+smell, SVC
+sound, SVC
+taste, SVC
+
+

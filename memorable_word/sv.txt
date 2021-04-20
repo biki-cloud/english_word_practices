@@ -1,0 +1,11 @@
+laugh, SV
+smile, SV
+live, SV
+appear, SV
+cough, SV
+cry, SV
+belong, SV
+fall, SV
+fly, SV
+open, SV
+

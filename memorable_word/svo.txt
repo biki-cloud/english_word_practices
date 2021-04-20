@@ -1,0 +1,14 @@
+teach, SVO
+want, SVO
+avoid, SVO
+know, SVO
+accept, SVO
+begin, SVO
+break, SVO
+bring, SVO
+build, SVO
+carry, SVO
+cause, SVO
+catch, SVO
+
+

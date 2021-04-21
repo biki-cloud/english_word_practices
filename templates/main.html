@@ -3,24 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>main</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
+<font size="5">{{ word_file }}</font>
+<br>
 <font size="7"> {{ question.en }}</font>
 
-<form action="{{ url_for('main')}}" method="post" name="submit_name">
+<form action="{{ url_for('main', word_name=word_file )}}" method="post" name="submit_name">
         {% set ns = namespace(i = 1) %}
         {% for el in choice_element %}
-            <input type="radio" id="{{ ns.i }}" name="choice" value="{{ el.en }}"><font size="7">{{ el.jp }}
+            <input type="radio" id="{{ ns.i }}" name="choice" value="{{ el.en }}"><font size="7" id="txt_{{ns.i}}">{{ el.jp }}
             {% set ns.i = ns.i + 1 %}
             <br>
         {% endfor %}
-    <input type="submit" id="submit_id" value="next">
 </form>
-<p>{{ req }}</p>
-<font size="7" id="result"></font>
 <progress id="p1" min="0" max="100" value="0"></progress>
 
+<font size="7" id="result"></font>
 <form action="{{ url_for('rest')}}" method="get">
     <input type="submit" value="stop">
 </form>
@@ -61,6 +62,7 @@
         console.log('ffff');
         window.addEventListener("keydown", (e) => {
             var choice = '';
+            var collect_id = 0;
             if (e.keyCode == 81){
                 radio_tag = document.getElementById(1);
                 radio_tag.checked = true;
@@ -69,6 +71,7 @@
                 radio_tag.disabled = 'disabled';
                 radio_tag = document.getElementById(3);
                 radio_tag.disabled = 'disabled';
+                collect_id = 1;
             } else if ( e.keyCode == 87) {
                 radio_tag = document.getElementById(2);
                 radio_tag.checked = true;
@@ -77,6 +80,7 @@
                 radio_tag.disabled = 'disabled';
                 radio_tag = document.getElementById(3);
                 radio_tag.disabled = 'disabled';hoice = radio_tag.value;
+                collect_id = 2;
             } else if (e.keyCode == 69) {
                 radio_tag = document.getElementById(3);
                 radio_tag.checked = true;
@@ -85,9 +89,11 @@
                 radio_tag.disabled = 'disabled';
                 radio_tag = document.getElementById(2);
                 radio_tag.disabled = 'disabled';
+                collect_id = 3;
             }
             console.log(e.keyCode);
             var ans = "{{ question.en }}"
+            var ans_jp = "{{ question.jp }}"
             console.log("ans: " + ans);
             console.log('choice: ' + choice);
             result_tag = document.getElementById('result');
@@ -95,7 +101,7 @@
                 result_tag.textContent = 'collect!!!';
                 result_tag.color = '#32cd32';
             } else {
-                result_tag.textContent = 'wrong!!';
+                result_tag.textContent = ans_jp;
                 result_tag.color = '#ff0000';
             }
             sleep(1, function () {

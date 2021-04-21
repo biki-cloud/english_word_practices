@@ -31,7 +31,7 @@ class WordFile:
 
 
 if __name__ == '__main__':
-    wf = WordFile('./memorable_word/ielts3500.txt')
+    wf = WordFile('./memorable_word/uopeople.txt')
     print(wf.file_path)
     for i in wf.en_jp_generator():
         print('ffff')

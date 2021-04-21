@@ -1,3 +1,4 @@
-<form action="{{ url_for('main') }}" method="GET">
-    <input type="submit" value="start">
-</form>
+{% for file in word_files %}
+    <a href="{{ url_for('main', word_name=file)}}">{{ file }}</a>
+    <br>
+{% endfor %}

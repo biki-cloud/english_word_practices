@@ -1,14 +1,16 @@
 from flask import Flask, render_template, request
+import glob
 
 from HandleDetailedFile import *
 
 app = Flask(__name__)
 
 
-@app.route('/', methods=['GET', 'POST'])
-def main():
+@app.route('/<word_name>', methods=['GET', 'POST'])
+def main(word_name):
     config_file_path = './configs.json'
-    df = DetailFile('./memorable_word/ielts3500.txt')
+    # df = DetailFile('./memorable_word/ielts3500.txt')
+    df = DetailFile(f'./memorable_word/{word_name}')
     if request.method == 'POST':
         result = read_json(config_file_path)["result"]
         user_choice = request.form.get('choice')
@@ -22,12 +24,14 @@ def main():
     data = {"result": question['en']}
     write_json(config_file_path, data)
     req = request.form
-    return render_template('main.html', question=question, choice_element=random_element, req=req)
+    return render_template('main.html', question=question, choice_element=random_element, req=req, word_file=word_name)
 
 
 @app.route('/rest')
 def rest():
-    return render_template('rest.html')
+    word_files = glob.glob('./memorable_word/*')
+    word_files_basename = [os.path.basename(f) for f in word_files]
+    return render_template('rest.html', word_files=word_files_basename)
 
 
 if __name__ == '__main__':

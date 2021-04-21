@@ -15,10 +15,10 @@ solidify, 固化
 initiate, 開始する
 logistical, ロジスティック
 tidbits, ちょっとしたこと
-graded　採点
+graded,　採点
 mimic, 真似る
 Grades, 成績
-Seeking　探す、目指す
+Seeking,　探す、目指す
 Absence, 欠席
 Grasp, 把握する
 Congrats, おめでとうございます
@@ -38,7 +38,7 @@ periodically, 定期的に
 exclude, を除く
 matriculation, 入学
 initial, 初期
-out, of, residence, 不在
+out of residence, 不在
 intervene, 介入する
 grant, 付与
 limitations, 制限事項
@@ -49,7 +49,7 @@ Submission, 提出
 proficiency, 習熟度
 toward, に向かって
 admitted, 認めた
-as, early, as, 早くも
+as early as, 早くも
 earn, 稼ぐ、得る
 within, 以内
 withdraw, 撤退
@@ -58,7 +58,7 @@ remain, 残る
 Academic, 学術
 Probation, 保護観察
 Suspension, 停止、中断
-the, right, to, 〜する権利
+the right to, 〜する権利
 notwithstanding, それにも関わらず
 Standards, 基準
 subsequent, 後続
@@ -77,18 +77,18 @@ circumstances, 状況
 eligible, 対象、適格
 significantly, 大幅に
 forfeit, 没収
-students’, reflections, 学生の感想
+students reflections, 学生の感想
 probable, ありそうな
 mitigating, 緩和する
 poor, 貧しい、低い、弱い
 render, 与える
 reinstatement, 復職
 denied, 拒否される
-required, number, of, 〜の必要な数
-prior, to, 〜の前
+required number of, 〜の必要な数
+prior to, 〜の前
 awarding, 授与
 condition, 条件
-under, the, 〜の元で
+under the, 〜の元で
 supervision, 監督
 approved, 承認済み
 regardless, 関係なく
@@ -107,7 +107,7 @@ meet, 会う、満たす
 denied, 拒否されました
 locale, 付近
 prohibited, 禁止
-in, return, 見返りに
+in return, 見返りに
 willingness, 意欲
 elect, 選出
 aware, 気が付く、注意する
@@ -119,39 +119,39 @@ makeup, 化粧
 charges, 料金、請求する
 separate, 分ける、別個
 incurred, 発生した
-in, addition, to, に加えて
+in addition to, に加えて
 Foundation, 財団
 reviewed, 審査
 annually, 毎年
 anticipate, 予想する
 substantial, 実質的
 clarifications, 明確化
-how, to, make, payments, 支払い方法
-financial, hold, 金銭的保有
-be, placed, 配置される
+how to make payments, 支払い方法
+financial hold, 金銭的保有
+be placed, 配置される
 outstanding, 未解決の
-late, registration, 登録の延長
+late registration, 登録の延長
 necessarily, 必ずしも
-as, soon, as, できるだけ早く
+as soon as, できるだけ早く
 secure, 安全、確保する
-Up, to, three, times, 最大３回
+Up to three times, 最大３回
 due, 特定の時間に何かが起こることが予想される
 administratively, 管理上
 overdue, 延滞
 made, 何を何何にする
 aid, 援助
-leave, of, absence, 休学
+leave of absence, 休学
 Allowance, 手当
 conferred, 授与する
 subsequent, 後の
-upcoming, term, 次の楽器
+upcoming term, 次の楽器
 Grant, 与える、許可
 Refuse, 断る、拒否する
-limited, selection, 限られた選択
+limited selection, 限られた選択
 comply, 準拠する
-comply, with, all, A, Aに遵守する
+comply with all A, Aに遵守する
 prestigious, 一流
-For, most, of, you, ほとんどの人にとって
+For most of you, ほとんどの人にとって
 likely, おそらく
 seek, 求める
 procedures, 手順
@@ -182,7 +182,7 @@ intend, 意図する
 insist, 主張する
 following, week, 翌週
 comprised, 構成
-as, required, 必要に応じ
+as required, 必要に応じ
 adequately, 適切に
 iterative, 反復
 Likewise, 同様に
@@ -192,34 +192,34 @@ secured, 確保
 reminder, リマインダー、念押し
 erroneous, 間違っている
 characterized, 特徴ずけ
-lack, of, 〜　〜の欠如
+lack of, 〜　〜の欠如
 inadequate, 不十分
 consecutive, 連続
 Occasionally, たまに
 legitimate, 正当な
-in, advance, of, の前に
-any, known, 〜, 既知の〜
-result, in, 結果として
+in advance of, の前に
+any known,  既知の〜
+result in, 結果として
 passing, 通過,伝えています
 adheres, 付着する,遵守する
 sanctions, 制裁する
 dismissal, 解任
 conduct, 行動する
 disciplinary, 懲戒
-No, matter, どんなに
+No matter, どんなに
 polished, 磨かれた
 truly, 本当に
 excellence, 優秀
 perseverance, 忍耐力
 adversity, 逆境
-in, the, face, of, 直面する
+in the face of, 直面する
 accomplishments, 成果
 reminded, 思い出させた
 qualified, 資格がある
-Over, the, last, few, weeks, 過去数週間にわたって
-work, toward, に向けて取り組む
+Over the last few weeks, 過去数週間にわたって
+work toward, に向けて取り組む
 journey, 旅
-enrollment, agreement!, 登録契約
+enrollment agreement!, 登録契約
 Prior, 以前
 Agreement, 契約
 applicable, 該当する
@@ -231,7 +231,7 @@ violates, 違反する
 warranted, 保証
 hooked, 夢中
 coherent, 密着した、まとまった
-figure, out, 見つけ出す
+figure out, 見つけ出す
 fewer, より少ない
 Illustrative, 実例
 Descriptive, 記述的
@@ -243,14 +243,14 @@ except, を除いて
 coherent, 辻褄が合う
 pre-writing, 事前執筆
 Brainstorming, 脳のなんとかEventually, 最終的には
-Write, out, 書き出す
+Write out, 書き出す
 associations, 協会
-To, make, matters, worse, さらに悪いことに
-Shaping, up, 形を整える
+To make matters worse, さらに悪いことに
+Shaping up, 形を整える
 figurative, 比喩的
 Adorn, 飾る
-no, longer, もはや, 
-hundreds, of, meters, 数百メートル
+no longer, もはや,
+hundreds of meters, 数百メートル
 fragile, 壊れやすい
 involved, 関与
 construction, 建設

@@ -53,6 +53,14 @@ class DetailFile:
         detailed_list = self.read_from_detailed_file()
         return random.sample(detailed_list, num)
 
+    def add_collect_number(self, en):
+        detailed_list = self.read_from_detailed_file()
+        for dic in detailed_list:
+            if en == dic['en']:
+                now_num = dic['collect_num']
+                dic['collect_num'] = str(int(now_num) + 1)
+        write_json(self.detailed_file_path, detailed_list)
+
 
 if __name__ == '__main__':
     df = DetailFile('./memorable_word/ielts3500.txt')

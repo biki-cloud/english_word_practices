@@ -1,0 +1,1754 @@
+[
+    {
+        "en": "Disinhibition",
+        "jp": " 脱抑制",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "inhibitions",
+        "jp": " 抑制",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "consequences",
+        "jp": " 結果",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Cyberbullying",
+        "jp": " ネットいじめ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "interactions",
+        "jp": " 相互作用",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "personality",
+        "jp": " 人",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "accountable",
+        "jp": " 説明責任",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "repeatedly",
+        "jp": " 繰り返し",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "harass",
+        "jp": " 嫌がらせ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "deliberate",
+        "jp": " 意図的に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Conduct",
+        "jp": " 行動",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "tolerate",
+        "jp": " 許容する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Netiquette",
+        "jp": " ネチケット",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "solidify",
+        "jp": " 固化",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "initiate",
+        "jp": " 開始する",
+        "collect_num": "2",
+        "info": ""
+    },
+    {
+        "en": "logistical",
+        "jp": " ロジスティック",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "tidbits",
+        "jp": " ちょっとしたこと",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "graded",
+        "jp": "　採点",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mimic",
+        "jp": " 真似る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Grades",
+        "jp": " 成績",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Seeking",
+        "jp": "　探す、目指す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Absence",
+        "jp": " 欠席",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Grasp",
+        "jp": " 把握する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Congrats",
+        "jp": " おめでとうございます",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "attention",
+        "jp": " 注意",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "instructions",
+        "jp": " 指示",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Associate",
+        "jp": " 仲間、混ざる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Reasoning",
+        "jp": " 推論",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Ethical",
+        "jp": " 論理的",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Civilization",
+        "jp": " 文明",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Belief",
+        "jp": " 信念",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Disciplinary",
+        "jp": " 懲戒",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Prerequisites",
+        "jp": " 前提条件",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Degree",
+        "jp": " 学位",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Undergraduate",
+        "jp": " 学部",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "peruse",
+        "jp": " 熟読する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "periodically",
+        "jp": " 定期的に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "exclude",
+        "jp": " を除く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "matriculation",
+        "jp": " 入学",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "initial",
+        "jp": " 初期",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "out",
+        "jp": " of, residence, 不在",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "intervene",
+        "jp": " 介入する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "grant",
+        "jp": " 付与",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "limitations",
+        "jp": " 制限事項",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "annually",
+        "jp": " 毎年",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "postsecondary",
+        "jp": " 高等教育",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Proof",
+        "jp": " 証明",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "Submission",
+        "jp": " 提出",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "proficiency",
+        "jp": " 習熟度",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "toward",
+        "jp": " に向かって",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "admitted",
+        "jp": " 認めた",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as",
+        "jp": " early, as, 早くも",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "earn",
+        "jp": " 稼ぐ、得る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "within",
+        "jp": " 以内",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "withdraw",
+        "jp": " 撤退",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "institution",
+        "jp": " 機関",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "remain",
+        "jp": " 残る",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "Academic",
+        "jp": " 学術",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Probation",
+        "jp": " 保護観察",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Suspension",
+        "jp": " 停止、中断",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "the",
+        "jp": " right, to, 〜する権利",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "notwithstanding",
+        "jp": " それにも関わらず",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "Standards",
+        "jp": " 基準",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "subsequent",
+        "jp": " 後続",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "below",
+        "jp": " 下",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "above",
+        "jp": " 上",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "preceding",
+        "jp": " 先行",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Dismissal",
+        "jp": " 解任",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sole",
+        "jp": " 唯一",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Affairs",
+        "jp": " 事務",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "discretion",
+        "jp": " 裁量",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "separation",
+        "jp": " 分離",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pursuant",
+        "jp": " に準拠",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Suspension",
+        "jp": " 停止、中断",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "extenuate",
+        "jp": " 酌量する",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "circumstances",
+        "jp": " 状況",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "eligible",
+        "jp": " 対象、適格",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "significantly",
+        "jp": " 大幅に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "forfeit",
+        "jp": " 没収",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "students’",
+        "jp": " reflections, 学生の感想",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "probable",
+        "jp": " ありそうな",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mitigating",
+        "jp": " 緩和する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "poor",
+        "jp": " 貧しい、低い、弱い",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "render",
+        "jp": " 与える",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reinstatement",
+        "jp": " 復職",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "denied",
+        "jp": " 拒否される",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "required",
+        "jp": " number, of, 〜の必要な数",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prior",
+        "jp": " to, 〜の前",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "awarding",
+        "jp": " 授与",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "condition",
+        "jp": " 条件",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "under",
+        "jp": " the, 〜の元で",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "supervision",
+        "jp": " 監督",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "approved",
+        "jp": " 承認済み",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "regardless",
+        "jp": " 関係なく",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "issued",
+        "jp": " 発行される",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "religious",
+        "jp": " 宗教",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "religious",
+        "jp": " figure, 宗教人物",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "willing",
+        "jp": " 喜んで",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "comply",
+        "jp": " 準拠する、応じる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "procedures",
+        "jp": " 手順",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "adequate",
+        "jp": " 適切",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "physically",
+        "jp": " 物理的に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "applicant",
+        "jp": " 申請者",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "vested",
+        "jp": " 既得",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reserves",
+        "jp": " 保存、留保",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "meet",
+        "jp": " 会う、満たす",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "denied",
+        "jp": " 拒否されました",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "locale",
+        "jp": " 付近",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prohibited",
+        "jp": " 禁止",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "in",
+        "jp": " return, 見返りに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "willingness",
+        "jp": " 意欲",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "elect",
+        "jp": " 選出",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "aware",
+        "jp": " 気が付く、注意する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "rejects",
+        "jp": " 拒否する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "discretion",
+        "jp": " 裁量",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "present",
+        "jp": " 現在、提示、与える",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "legitimate",
+        "jp": " 正当な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "makeup",
+        "jp": " 化粧",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "charges",
+        "jp": " 料金、請求する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "separate",
+        "jp": " 分ける、別個",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "incurred",
+        "jp": " 発生した",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in",
+        "jp": " addition, to, に加えて",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Foundation",
+        "jp": " 財団",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reviewed",
+        "jp": " 審査",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "annually",
+        "jp": " 毎年",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "anticipate",
+        "jp": " 予想する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "substantial",
+        "jp": " 実質的",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "clarifications",
+        "jp": " 明確化",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "how",
+        "jp": " to, make, payments, 支払い方法",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "financial",
+        "jp": " hold, 金銭的保有",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "be",
+        "jp": " placed, 配置される",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "outstanding",
+        "jp": " 未解決の",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "late",
+        "jp": " registration, 登録の延長",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "necessarily",
+        "jp": " 必ずしも",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as",
+        "jp": " soon, as, できるだけ早く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "secure",
+        "jp": " 安全、確保する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Up",
+        "jp": " to, three, times, 最大３回",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "due",
+        "jp": " 特定の時間に何かが起こることが予想される",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "administratively",
+        "jp": " 管理上",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "overdue",
+        "jp": " 延滞",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "made",
+        "jp": " 何を何何にする",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "aid",
+        "jp": " 援助",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "leave",
+        "jp": " of, absence, 休学",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Allowance",
+        "jp": " 手当",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "conferred",
+        "jp": " 授与する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "subsequent",
+        "jp": " 後の",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "upcoming",
+        "jp": " term, 次の楽器",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Grant",
+        "jp": " 与える、許可",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Refuse",
+        "jp": " 断る、拒否する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "limited",
+        "jp": " selection, 限られた選択",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "comply",
+        "jp": " 準拠する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "comply",
+        "jp": " with, all, A, Aに遵守する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prestigious",
+        "jp": " 一流",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "For",
+        "jp": " most, of, you, ほとんどの人にとって",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "likely",
+        "jp": " おそらく",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "seek",
+        "jp": " 求める",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "procedures",
+        "jp": " 手順",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "via",
+        "jp": " 経由",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Means",
+        "jp": " 意味、手段",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "thoroughly",
+        "jp": " 徹底的に",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "addressed",
+        "jp": " 対処",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "While",
+        "jp": " 一方、同時に",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "prerequisite",
+        "jp": " 前提条件",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "discourse",
+        "jp": " 談話",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "provisional",
+        "jp": " 仮",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reverts",
+        "jp": " 元に戻す",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "rest",
+        "jp": " 残り、休息",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reactivated",
+        "jp": " 再活性化",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "donated",
+        "jp": " 寄付",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "readily",
+        "jp": " すぐに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "synthesis",
+        "jp": " 合成",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Apply",
+        "jp": " 適応する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "techniques",
+        "jp": " 技術",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "critical",
+        "jp": " 重要な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "through",
+        "jp": " を通じて",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "strategies",
+        "jp": " 戦略",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Pre-Writing",
+        "jp": " 事前書き込み",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Critically",
+        "jp": " 批判的に",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "Sprinkles",
+        "jp": " 振りかける",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "indicated",
+        "jp": " 示された",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "intend",
+        "jp": " 意図する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "insist",
+        "jp": " 主張する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "following",
+        "jp": " week, 翌週",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "comprised",
+        "jp": " 構成",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as",
+        "jp": " required, 必要に応じ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "adequately",
+        "jp": " 適切に",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "iterative",
+        "jp": " 反復",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Likewise",
+        "jp": " 同様に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "completion",
+        "jp": " 完了",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "following",
+        "jp": " 〜, 〜の後に",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "secured",
+        "jp": " 確保",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "reminder",
+        "jp": " リマインダー、念押し",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "erroneous",
+        "jp": " 間違っている",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "characterized",
+        "jp": " 特徴ずけ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "lack",
+        "jp": " of, 〜　〜の欠如",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "inadequate",
+        "jp": " 不十分",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "consecutive",
+        "jp": " 連続",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Occasionally",
+        "jp": " たまに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "legitimate",
+        "jp": " 正当な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in",
+        "jp": " advance, of, の前に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "any",
+        "jp": " known, 〜, 既知の〜",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "result",
+        "jp": " in, 結果として",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "passing",
+        "jp": " 通過,伝えています",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "adheres",
+        "jp": " 付着する,遵守する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sanctions",
+        "jp": " 制裁する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "dismissal",
+        "jp": " 解任",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "conduct",
+        "jp": " 行動する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "disciplinary",
+        "jp": " 懲戒",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "No",
+        "jp": " matter, どんなに",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "polished",
+        "jp": " 磨かれた",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "truly",
+        "jp": " 本当に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "excellence",
+        "jp": " 優秀",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "perseverance",
+        "jp": " 忍耐力",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "adversity",
+        "jp": " 逆境",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in",
+        "jp": " the, face, of, 直面する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "accomplishments",
+        "jp": " 成果",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "reminded",
+        "jp": " 思い出させた",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "qualified",
+        "jp": " 資格がある",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Over",
+        "jp": " the, last, few, weeks, 過去数週間にわたって",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "work",
+        "jp": " toward, に向けて取り組む",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "journey",
+        "jp": " 旅",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "enrollment",
+        "jp": " agreement!, 登録契約",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Prior",
+        "jp": " 以前",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Agreement",
+        "jp": " 契約",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "applicable",
+        "jp": " 該当する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "signature",
+        "jp": " 署名",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "concise",
+        "jp": " 簡潔",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "contribute",
+        "jp": " 寄付、貢献",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "suspect",
+        "jp": " 疑う、容疑者",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "violates",
+        "jp": " 違反する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "warranted",
+        "jp": " 保証",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "hooked",
+        "jp": " 夢中",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "coherent",
+        "jp": " 密着した、まとまった",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "figure",
+        "jp": " out, 見つけ出す",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "fewer",
+        "jp": " より少ない",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Illustrative",
+        "jp": " 実例",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Descriptive",
+        "jp": " 記述的",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Fairytales",
+        "jp": " お伽話",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fellow",
+        "jp": " 仲間",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prove",
+        "jp": " 証明する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Institute",
+        "jp": " 研究所",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "except",
+        "jp": " を除いて",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "coherent",
+        "jp": " 辻褄が合う",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pre-writing",
+        "jp": " 事前執筆",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Brainstorming",
+        "jp": " 脳のなんとかEventually, 最終的には",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Write",
+        "jp": " out, 書き出す",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "associations",
+        "jp": " 協会",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "To",
+        "jp": " make, matters, worse, さらに悪いことに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Shaping",
+        "jp": " up, 形を整える",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "figurative",
+        "jp": " 比喩的",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Adorn",
+        "jp": " 飾る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "no",
+        "jp": " longer, もはや, ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "hundreds",
+        "jp": " of, meters, 数百メートル",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fragile",
+        "jp": " 壊れやすい",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "involved",
+        "jp": " 関与",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "construction",
+        "jp": " 建設",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "out of residence",
+        "jp": " 不在",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as early as",
+        "jp": " 早くも",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "the right to",
+        "jp": " 〜する権利",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "students reflections",
+        "jp": " 学生の感想",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "required number of",
+        "jp": " 〜の必要な数",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prior to",
+        "jp": " 〜の前",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "under the",
+        "jp": " 〜の元で",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in return",
+        "jp": " 見返りに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in addition to",
+        "jp": " に加えて",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "how to make payments",
+        "jp": " 支払い方法",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "be placed",
+        "jp": " 配置される",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "late registration",
+        "jp": " 登録の延長",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as soon as",
+        "jp": " できるだけ早く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Up to three times",
+        "jp": " 最大３回",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "leave of absence",
+        "jp": " 休学",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "upcoming term",
+        "jp": " 次の楽器",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "limited selection",
+        "jp": " 限られた選択",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "comply with all A",
+        "jp": " Aに遵守する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "For most of you",
+        "jp": " ほとんどの人にとって",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "as required",
+        "jp": " 必要に応じ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "lack of",
+        "jp": " 〜　〜の欠如",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in advance of",
+        "jp": " の前に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "any known",
+        "jp": "  既知の〜",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "result in",
+        "jp": " 結果として",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "No matter",
+        "jp": " どんなに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "in the face of",
+        "jp": " 直面する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Over the last few weeks",
+        "jp": " 過去数週間にわたって",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "work toward",
+        "jp": " に向けて取り組む",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "enrollment agreement!",
+        "jp": " 登録契約",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "figure out",
+        "jp": " 見つけ出す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Write out",
+        "jp": " 書き出す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "To make matters worse",
+        "jp": " さらに悪いことに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "Shaping up",
+        "jp": " 形を整える",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "no longer",
+        "jp": " もはや,",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "hundreds of meters",
+        "jp": " 数百メートル",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "financial hold",
+        "jp": " 金銭的保有",
+        "collect_num": 0,
+        "info": ""
+    }
+]

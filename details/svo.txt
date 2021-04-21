@@ -1,0 +1,74 @@
+[
+    {
+        "en": "teach",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "want",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "avoid",
+        "jp": " SVO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "know",
+        "jp": " SVO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "accept",
+        "jp": " SVO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "begin",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "break",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "bring",
+        "jp": " SVO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "build",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "carry",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cause",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "catch",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "en": "ad 〜",
+        "jp": "の方へ、〜の方を",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "mini ",
+        "jp": "小さい",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "voc vok vouch ",
+        "jp": "声、呼ぶ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mon ",
+        "jp": "示す、警告する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "just jur ",
+        "jp": "正しい、法",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "point punct ",
+        "jp": "指す、点",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "tend tens ",
+        "jp": "伸ばす、向ける",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cure care ",
+        "jp": "世話、注意",
+        "collect_num": "3",
+        "info": ""
+    },
+    {
+        "en": "chief cap cup ",
+        "jp": "頭、つかむ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cept ceive ",
+        "jp": "つかむ",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "sign ",
+        "jp": "しるし",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "serve sert ",
+        "jp": "保つ、守る、仕える ",
+        "collect_num": "2",
+        "info": ""
+    },
+    {
+        "en": "cur ",
+        "jp": "走る、流れる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fend fens fest ",
+        "jp": "打つ、たたく",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "form ",
+        "jp": "形",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "tra(ct) ",
+        "jp": "引く",
+        "collect_num": "2",
+        "info": ""
+    },
+    {
+        "en": "gre(ss) grad ",
+        "jp": "行く、進む",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fin ",
+        "jp": "終わる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sens sent ",
+        "jp": "感じる",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "cre(ase) cru ",
+        "jp": "増える、成長する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pet(e) peat ",
+        "jp": "求める",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "quest quire ",
+        "jp": "求める",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "clude close ",
+        "jp": "閉じる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "memo min(d) ",
+        "jp": "心、記憶",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pel peal pul ",
+        "jp": "駆り立てる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "rupt ",
+        "jp": "崩れる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cide cise ",
+        "jp": "切る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "bat ",
+        "jp": "たたく",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "part ",
+        "jp": "分かれる、部分",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "press ",
+        "jp": "押す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "tour turn tir ",
+        "jp": "曲がる、回る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fic ",
+        "jp": "する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "stitute ",
+        "jp": "立つ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sta stat ",
+        "jp": "立つ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ord ",
+        "jp": "順番",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mit mis ",
+        "jp": "送る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ply ple pli ",
+        "jp": "満たす",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pend pence ",
+        "jp": "つるす、はかる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "tain ",
+        "jp": "保つ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "vey view ",
+        "jp": "見る",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "vive ",
+        "jp": "生きる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pass pace ",
+        "jp": "歩く、通る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "vise ",
+        "jp": "見る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "flu ",
+        "jp": "流れる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ceed cede cess ",
+        "jp": "行く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sist ",
+        "jp": "立つ",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "patri ",
+        "jp": "父",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "va(c) void ",
+        "jp": "空(から)",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "man(i) ",
+        "jp": "手",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mo(t) mo(v) ",
+        "jp": "動く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ject jet ",
+        "jp": "投げる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "spect ",
+        "jp": "見る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "long ling ",
+        "jp": "長い",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "test ",
+        "jp": "証言する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "duce duct ",
+        "jp": "導く",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "gram graph ",
+        "jp": "書く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "hibit ",
+        "jp": "置く、持つ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fer ",
+        "jp": "運ぶ",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "dict ",
+        "jp": "言う",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "side sit set seat ses sed sad ",
+        "jp": "座る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "gna na(t) ",
+        "jp": "生まれる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fect fact ",
+        "jp": "なす、作る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cast ",
+        "jp": "投げる",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "treat trait ",
+        "jp": "引く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "stri(ct) strai(n) stress ",
+        "jp": "引っ張る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "seem sem simil ",
+        "jp": "同じ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sul(t) sal(t) ",
+        "jp": "跳ぶ、跳ねる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "forc fort ",
+        "jp": "強い",
+        "collect_num": "2",
+        "info": ""
+    },
+    {
+        "en": "vol(ve) ",
+        "jp": "回転する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mod(e) ",
+        "jp": "型",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ly li(g) ",
+        "jp": "結ぶ",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "lev(i) ",
+        "jp": "軽い、持ち上げる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "spir(e) ",
+        "jp": "息をする",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "cli(n) cli(m) ",
+        "jp": "傾く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "gen ",
+        "jp": "種、生まれる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "port ",
+        "jp": "運ぶ、港",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ped ",
+        "jp": "足",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "bar ",
+        "jp": "棒、横木",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "co(u)r cord ",
+        "jp": "心",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "it ",
+        "jp": "行く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pose ",
+        "jp": "置く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "struct ",
+        "jp": "積む",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "vent ",
+        "jp": "来る、行く",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "use uti ",
+        "jp": "使う",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ori orig origin ",
+        "jp": "生まれる、始まり",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "par pear ",
+        "jp": "見える",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "stin(k) stick stinct ",
+        "jp": "刺す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "arm ",
+        "jp": "腕、武器",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "car ",
+        "jp": "車、走る、運ぶ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pare pair ",
+        "jp": "並べる、そばの",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "path pass ",
+        "jp": "感じる、痛む",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "nom name ",
+        "jp": "名前",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "tact tang ",
+        "jp": "触れる",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "fa ",
+        "jp": "話す",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "mid med(i) ",
+        "jp": "中間",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "reg roy ",
+        "jp": "王、支配",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cert cri ",
+        "jp": "ふるいにかける",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cover ",
+        "jp": "覆う",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "ton tun ",
+        "jp": "音",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "vers(e) ",
+        "jp": "回る、向ける",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ann(i) enn(i) ",
+        "jp": "年",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ple pli ply ploy ",
+        "jp": "重ねる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "via vey voy ",
+        "jp": "道",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "ple pli ply ploy ",
+        "jp": "重ねる",
+        "collect_num": 0,
+        "info": ""
+    }
+]

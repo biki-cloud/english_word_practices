@@ -1,0 +1,62 @@
+[
+    {
+        "en": "laugh",
+        "jp": " SV",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "smile",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "live",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "appear",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cough",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cry",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "belong",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fall",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fly",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "open",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    }
+]

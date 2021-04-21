@@ -1,0 +1,572 @@
+[
+    {
+        "en": "laugh",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "smile",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "live",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "appear",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cough",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cry",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "belong",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fall",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fly",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "open",
+        "jp": " SV",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "become",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "get",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "go",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "be",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "continue",
+        "jp": " SVC, 状態の継続",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "keep",
+        "jp": " SVC, 状態の継続",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "remain",
+        "jp": " SVC, 状態の継続",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "stay",
+        "jp": " SVC, 状態の継続",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "become",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "get",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "go",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "come",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "grow",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fall",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "turn",
+        "jp": " SVC, 〜になる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "seem",
+        "jp": " SVC, 〜に思われる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "appear",
+        "jp": " SVC, 〜に思われる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "look",
+        "jp": " SVC, 〜に思われる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "feel",
+        "jp": " SVC, 〜と感じる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "smell",
+        "jp": " SVC, 〜の匂いがする",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sound",
+        "jp": " SVC, 〜に聞こえる",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "taste",
+        "jp": " SVC, 〜の味がする",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "come",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "grow",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fall",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "turn",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "seem",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "appear",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "look",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "feel",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "smell",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "sound",
+        "jp": " SVC",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "taste",
+        "jp": " SVC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "teach",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "want",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "avoid",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "know",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "accept",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "begin",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "break",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "bring",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "build",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "carry",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "cause",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "catch",
+        "jp": " SVO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "allot",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "award",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "fax",
+        "jp": " SVOO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "give",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "grant",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "hand",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "lend",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "offer",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pass",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "pay",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "promise",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "send",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "show",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "teach",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "tell",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "throw",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "write",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "buy",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "call",
+        "jp": " SVOO",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "cook",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "find",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "get",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "make",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "prepare",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "save",
+        "jp": " SVOO",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "appoint",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "call",
+        "jp": " SVOC",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "elect",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "name",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "consider",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "make",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "get",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "set",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "drive",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "turn",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "boil",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "paint",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "push",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "leave",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "keep",
+        "jp": " SVOC",
+        "collect_num": 0,
+        "info": ""
+    }
+]

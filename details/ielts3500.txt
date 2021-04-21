@@ -1,0 +1,386 @@
+[
+    {
+        "en": "being",
+        "jp": "存在；生き物",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "government",
+        "jp": "政府；統治",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "found",
+        "jp": " を設立する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "given",
+        "jp": " 〜を過程「考慮」すれば",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "state",
+        "jp": " を述べる；表明する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "council",
+        "jp": "地方議会",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "available",
+        "jp": " 入手出来る；利用出来る",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "saw",
+        "jp": " ノコギリ",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "minister",
+        "jp": " 大臣；聖職者",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "means",
+        "jp": " 手段；方法",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "therefore",
+        "jp": " それ故に；従って",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "evidence",
+        "jp": " 証拠；証言",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "range",
+        "jp": " 範囲；領域",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "thus",
+        "jp": " このように；従って",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "individual",
+        "jp": " 個々の；個人の",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "committee",
+        "jp": " 委員会",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "indeed",
+        "jp": " 本当に；実に；実際は",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "authority",
+        "jp": " 権威；権限；権威者；当局",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "union",
+        "jp": " （労働）組合",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "increase",
+        "jp": " 増える；増加する；高まる",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "issue",
+        "jp": " 問題；争点",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "lord",
+        "jp": " 貴族；〜卿；神",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "various",
+        "jp": " さまざまな",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "basis",
+        "jp": " 基礎；根拠",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "despite",
+        "jp": " 〜にもかかわらず",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "structure",
+        "jp": " 構造、権威",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "capital",
+        "jp": " 首都；資本",
+        "collect_num": "2",
+        "info": ""
+    },
+    {
+        "en": "per",
+        "jp": " 〜につき；〜ごとに",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "agreement",
+        "jp": " 合意；協定",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "analysis",
+        "jp": " 分析；分解",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "population",
+        "jp": " 人口",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "legal",
+        "jp": " 法律の；合法的な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "theory",
+        "jp": " 理論；学説",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "growth",
+        "jp": " 増加；成長",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "relationship",
+        "jp": " 関係；関連",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "property",
+        "jp": " 財産；特性",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "throughout",
+        "jp": " 〜の至る所に",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "significant",
+        "jp": " 重要な；意味深い；相当の",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "income",
+        "jp": " 収入；所得",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "contract",
+        "jp": " 契約；協定",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "consider",
+        "jp": " を〜と見なす；を熟考する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "attempt",
+        "jp": " を試みる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "specific",
+        "jp": " 特定の；明確な",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "leading",
+        "jp": " 主要な；第一級の",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "potential",
+        "jp": " 潜在力；可能性",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "access",
+        "jp": " 接近；進入路",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "independent",
+        "jp": " 独立した",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "benefit",
+        "jp": " 恩恵；利益；手当；給付",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "employment",
+        "jp": " 職；雇用",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "influence",
+        "jp": " 影響；効果",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "concern",
+        "jp": " に関係する；を心配させる",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "application",
+        "jp": " 申請；適応",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "suppose",
+        "jp": " と思う；推測する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "opportunity",
+        "jp": " 機会；好機",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "effective",
+        "jp": " 効果的な；有効な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "region",
+        "jp": " 地域；地帯",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "election",
+        "jp": " 選挙；当選",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "parliament",
+        "jp": " 議会；会期",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "review",
+        "jp": " 調査、検討",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "species",
+        "jp": " （生物の）種",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "supply",
+        "jp": " を供給する；支給する",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "moving",
+        "jp": " 感動的な",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "considerable",
+        "jp": " かなりの；物質的な",
+        "collect_num": "1",
+        "info": ""
+    },
+    {
+        "en": "physical",
+        "jp": " 身体の；物質的な",
+        "collect_num": 0,
+        "info": ""
+    }
+]

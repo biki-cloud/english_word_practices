@@ -25,5 +25,10 @@ def main():
     return render_template('main.html', question=question, choice_element=random_element, req=req)
 
 
+@app.route('/rest')
+def rest():
+    return render_template('rest.html')
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port='5000', debug=True)

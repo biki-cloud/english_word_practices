@@ -1,17 +1,11 @@
-window.onload = ()=>{
-        window.addEventListener("keydown", (e) => {
-            if (e.keyCode == 81){
-                radio_tag = document.getElementById(1);
-                radio_tag.checked = true;
-            } else if ( e.keyCode == 87) {
-                radio_tag = document.getElementById(2);
-                radio_tag.checked = true;
-            } else if (e.keyCode == 69) {
-                radio_tag = document.getElementById(3);
-                radio_tag.checked = true;
-            } else if (e.keyCode == 83) {
-                document.submit_name.submit();
-            }
-            console.log(e.keyCode);
-        });
-}
+var bar = new ProgressBar.Line(container, {
+  strokeWidth: 4,
+  easing: 'easeInOut',
+  duration: 1400,
+  color: '#FFEA82',
+  trailColor: '#eee',
+  trailWidth: 1,
+  svgStyle: {width: '100%', height: '100%'}
+});
+
+bar.animate(1.0);

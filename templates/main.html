@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>main</title>
 <!--    <script src="/static/js/main.js" type="text/javascript"></script>-->
+    <script src="/static/js/node_modules/progressbar.js/dist/progressbar.js"></script>
 </head>
 <body>
 <p>{{ question.en }}</p>
@@ -20,8 +21,44 @@
 </form>
 <p>{{ req }}</p>
 <h2 id="result"></h2>
+<progress id="p1" min="0" max="100" value="0"></progress>
+
+<form action="{{ url_for('rest')}}" method="get">
+    <input type="submit" value="stop">
+</form>
 
 <script type="text/javascript">
+
+    function sleep(waitSec, callbackFunc) {
+        // 経過時間（秒）
+        var spanedSec = 0;
+        // 1秒間隔で無名関数を実行
+        var id = setInterval(function () {
+            spanedSec++;
+            // 経過時間 >= 待機時間の場合、待機終了。
+            if (spanedSec >= waitSec) {
+                // タイマー停止
+                clearInterval(id);
+                // 完了時、コールバック関数を実行
+                if (callbackFunc) callbackFunc();
+            }
+        }, 1000);
+    }
+
+    var time_limit = 4
+    function proc1()
+    {
+        if (document.getElementById('p1').value < 100 ) {
+            document.getElementById('p1').value++;
+            setTimeout(proc1, time_limit * 10);
+        }
+    }
+
+    proc1();
+    sleep(time_limit, function () {
+            document.submit_name.submit();
+    });
+
     window.onload = ()=>{
         console.log('ffff');
         window.addEventListener("keydown", (e) => {
@@ -37,6 +74,7 @@
             } else if ( e.keyCode == 87) {
                 radio_tag = document.getElementById(2);
                 radio_tag.checked = true;
+                choice = radio_tag.value;
                 radio_tag = document.getElementById(1);
                 radio_tag.disabled = 'disabled';
                 radio_tag = document.getElementById(3);
@@ -60,9 +98,12 @@
             } else {
                 result_tag.textContent = 'wrong!!';
             }
-            if (e.keyCode == 83) {
+            sleep(1, function () {
+
+                console.log('5秒経過しました！');
                 document.submit_name.submit();
-            }
+
+            });
         });
 }
 </script>

@@ -86,7 +86,7 @@
     {
         "en": "individual",
         "jp": " 個々の；個人の",
-        "collect_num": 0,
+        "collect_num": "1",
         "info": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "en": "various",
         "jp": " さまざまな",
-        "collect_num": 0,
+        "collect_num": "1",
         "info": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "en": "theory",
         "jp": " 理論；学説",
-        "collect_num": 0,
+        "collect_num": "1",
         "info": ""
     },
     {
@@ -212,7 +212,7 @@
     {
         "en": "property",
         "jp": " 財産；特性",
-        "collect_num": "1",
+        "collect_num": "2",
         "info": ""
     },
     {
@@ -314,7 +314,7 @@
     {
         "en": "suppose",
         "jp": " と思う；推測する",
-        "collect_num": 0,
+        "collect_num": "1",
         "info": ""
     },
     {
@@ -326,13 +326,13 @@
     {
         "en": "effective",
         "jp": " 効果的な；有効な",
-        "collect_num": 0,
+        "collect_num": "1",
         "info": ""
     },
     {
         "en": "region",
         "jp": " 地域；地帯",
-        "collect_num": "1",
+        "collect_num": "2",
         "info": ""
     },
     {
@@ -380,6 +380,18 @@
     {
         "en": "physical",
         "jp": " 身体の；物質的な",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "complex",
+        "jp": " 複雑な；複合（体）の",
+        "collect_num": 0,
+        "info": ""
+    },
+    {
+        "en": "responsibility",
+        "jp": " 責任；責務",
         "collect_num": 0,
         "info": ""
     }

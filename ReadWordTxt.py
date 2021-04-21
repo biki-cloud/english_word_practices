@@ -1,6 +1,8 @@
 import os
 from typing import *
 
+from ReFormatFile import reformat_file
+
 
 class MyFileNotFoundError(Exception):
     pass
@@ -19,6 +21,7 @@ class WordFile:
     def __init__(self, file_path):
         if not os.path.exists(file_path):
             MyFileNotFoundError(f'{file_path} is not found')
+        reformat_file(file_path)
         self.file_path = file_path
         self.content_lines = []
 

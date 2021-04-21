@@ -242,7 +242,8 @@ Institute, 研究所
 except, を除いて
 coherent, 辻褄が合う
 pre-writing, 事前執筆
-Brainstorming, 脳のなんとかEventually, 最終的には
+Brainstorming, 脳のなんとか
+Eventually, 最終的には
 Write out, 書き出す
 associations, 協会
 To make matters worse, さらに悪いことに

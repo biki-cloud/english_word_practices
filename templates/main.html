@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>main</title>
+<!--    <script src="/static/js/main.js" type="text/javascript"></script>-->
+</head>
+<body>
+<p>{{ question.en }}</p>
+
+
+<form action="{{ url_for('main')}}" method="post" name="submit_name">
+        {% set ns = namespace(i = 1) %}
+        {% for el in choice_element %}
+            <input type="radio" id="{{ ns.i }}" name="choice" value="{{ el.en }}">{{ el.jp }}
+            {% set ns.i = ns.i + 1 %}
+            <br>
+        {% endfor %}
+    <input type="submit" id="submit_id" value="next">
+</form>
+<p>{{ req }}</p>
+<h2 id="result"></h2>
+
+<script type="text/javascript">
+    window.onload = ()=>{
+        console.log('ffff');
+        window.addEventListener("keydown", (e) => {
+            var choice = '';
+            if (e.keyCode == 81){
+                radio_tag = document.getElementById(1);
+                radio_tag.checked = true;
+                choice = radio_tag.value;
+                radio_tag = document.getElementById(2);
+                radio_tag.disabled = 'disabled';
+                radio_tag = document.getElementById(3);
+                radio_tag.disabled = 'disabled';
+            } else if ( e.keyCode == 87) {
+                radio_tag = document.getElementById(2);
+                radio_tag.checked = true;
+                radio_tag = document.getElementById(1);
+                radio_tag.disabled = 'disabled';
+                radio_tag = document.getElementById(3);
+                radio_tag.disabled = 'disabled';hoice = radio_tag.value;
+            } else if (e.keyCode == 69) {
+                radio_tag = document.getElementById(3);
+                radio_tag.checked = true;
+                choice = radio_tag.value;
+                radio_tag = document.getElementById(1);
+                radio_tag.disabled = 'disabled';
+                radio_tag = document.getElementById(2);
+                radio_tag.disabled = 'disabled';
+            }
+            console.log(e.keyCode);
+            var ans = "{{ question.en }}"
+            console.log("ans: " + ans);
+            console.log('choice: ' + choice);
+            result_tag = document.getElementById('result');
+            if (choice == ans){
+                result_tag.textContent = 'collect!!!';
+            } else {
+                result_tag.textContent = 'wrong!!';
+            }
+            if (e.keyCode == 83) {
+                document.submit_name.submit();
+            }
+        });
+}
+</script>
+
+
+
+</body>
+</html>

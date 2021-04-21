@@ -1,14 +1,33 @@
 import json
-from typing import *
+import os
 import random
+from typing import *
 
 from ReadWordTxt import WordFile
+
+
+def read_json(filename):
+    with open(filename, 'r') as f:
+        return json.load(f)
+
+
+def write_json(filename, data):
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
+
+def dict_to_json(dic):
+    return json.dumps(dic, ensure_ascii=False, indent=4)
+
+
+def json_to_dict(json_str):
+    return json.loads(json_str)
 
 
 class DetailFile:
     def __init__(self, word_file):
         self.wf = WordFile(word_file)
-        self.detailed_file_path = f'{word_file}_detailed.txt'
+        self.detailed_file_path = os.path.join(os.getcwd(), 'details', os.path.basename(word_file))
         self.detailed_list = self.get_detailed_list()
         self.write_to_detailed_file()
 
@@ -25,12 +44,10 @@ class DetailFile:
         return detailed_list
 
     def write_to_detailed_file(self):
-        with open(self.detailed_file_path, 'w') as f:
-            json.dump(self.detailed_list, f, indent=4, ensure_ascii=False)
+        return write_json(self.detailed_file_path, self.detailed_list)
 
     def read_from_detailed_file(self) -> List[Dict[str, str]]:
-        with open(self.detailed_file_path, 'r') as f:
-            return json.load(f)
+        return read_json(self.detailed_file_path)
 
     def get_random_element(self, num):
         detailed_list = self.read_from_detailed_file()

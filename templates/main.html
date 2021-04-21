@@ -3,24 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <title>main</title>
-<!--    <script src="/static/js/main.js" type="text/javascript"></script>-->
-    <script src="/static/js/node_modules/progressbar.js/dist/progressbar.js"></script>
 </head>
 <body>
-<p>{{ question.en }}</p>
 
+<font size="7"> {{ question.en }}</font>
 
 <form action="{{ url_for('main')}}" method="post" name="submit_name">
         {% set ns = namespace(i = 1) %}
         {% for el in choice_element %}
-            <input type="radio" id="{{ ns.i }}" name="choice" value="{{ el.en }}">{{ el.jp }}
+            <input type="radio" id="{{ ns.i }}" name="choice" value="{{ el.en }}"><font size="7">{{ el.jp }}
             {% set ns.i = ns.i + 1 %}
             <br>
         {% endfor %}
     <input type="submit" id="submit_id" value="next">
 </form>
 <p>{{ req }}</p>
-<h2 id="result"></h2>
+<font size="7" id="result"></font>
 <progress id="p1" min="0" max="100" value="0"></progress>
 
 <form action="{{ url_for('rest')}}" method="get">
@@ -95,14 +93,13 @@
             result_tag = document.getElementById('result');
             if (choice == ans){
                 result_tag.textContent = 'collect!!!';
+                result_tag.color = '#32cd32';
             } else {
                 result_tag.textContent = 'wrong!!';
+                result_tag.color = '#ff0000';
             }
             sleep(1, function () {
-
-                console.log('5秒経過しました！');
                 document.submit_name.submit();
-
             });
         });
 }

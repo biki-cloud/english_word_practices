@@ -29,7 +29,7 @@ class DetailFile:
         self.wf = WordFile(word_file)
         self.detailed_file_path = os.path.join(os.getcwd(), 'details', os.path.basename(word_file))
         self.detailed_list = self.get_detailed_list()
-        self.write_to_detailed_file()
+        # self.write_to_detailed_file()
 
     def get_detailed_list(self) -> List[Dict[str, str]]:
         detailed_list = []
@@ -54,12 +54,12 @@ class DetailFile:
         return random.sample(detailed_list, num)
 
     def add_collect_number(self, en):
-        detailed_list = self.read_from_detailed_file()
-        for dic in detailed_list:
+        li = self.read_from_detailed_file()
+        for dic in li:
             if en == dic['en']:
                 now_num = dic['collect_num']
                 dic['collect_num'] = str(int(now_num) + 1)
-        write_json(self.detailed_file_path, detailed_list)
+        write_json(self.detailed_file_path, li)
 
 
 if __name__ == '__main__':

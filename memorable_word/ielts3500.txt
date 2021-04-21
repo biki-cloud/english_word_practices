@@ -61,4 +61,5 @@ species, （生物の）種
 supply, を供給する；支給する
 moving, 感動的な
 considerable, かなりの；物質的な
+physical, 身体の；物質的な
 
